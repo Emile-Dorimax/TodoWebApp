@@ -3,11 +3,11 @@
 Changes List:
 
 Todos:
-1. Post Doto Item
-2. Edit Doto Item
-3. Delete Doto Item
-4. Added date field to class for sorted Todolist by date desc. 
-   (Only if newly created, this then aligns the javascript and the php service sorting on refresh)
+1. Post Item
+2. Edit Item
+3. Delete Item
+4. Added date field to Todo class for sorting Todolist by date desc. 
+   (Only if newly created. This then aligns the javascript and the php service sorting on refresh)
 
 
 Toasts:
